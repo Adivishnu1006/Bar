@@ -1,0 +1,76 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+  
+
+
+.hyperNav{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300
+
+}
+
+.BackGroundimage{
+    background-image: url(/Users/lvish/Downloads/Paradiso_photo_bar4-oct22-pr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.h1Dec{
+    color: white;
+    font-weight: 500;
+    font-size: 4rem;
+    font-family: fantasy;
+}
+.HoverButton{
+    background-color: transparent; 
+    border-style:groove; 
+    color:white;
+    border-color: white;
+    position: relative;
+    margin-bottom: 140px;
+    height: 40px;
+    
+}
+
+.HoverButton:hover{
+    background-color: white;
+    color: black;
+}
+
+.aboutus{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 10px;
+    font-size: 1.6rem;
+    font-weight: 100;
+    
+}
+
+.image{
+   
+    width: 100%;
+    height: 500px;
+}
+
+.image img{
+    display: block;
+}
+
+.sub{
+    width: fit-content; 
+    background-color:gray ;
+     color:white;
+     border-style: hidden;
+     border-radius: 5px;
+}
+
+.pmar{
+    margin: 10px;
+}
